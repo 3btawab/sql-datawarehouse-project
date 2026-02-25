@@ -1,10 +1,10 @@
-# mysql-datawarehouse-project
-building a modern data warehouse by using my sql 
+# sql-datawarehouse-project
+building a modern data warehouse by using sql 
 
-📊 MySQL Data Warehouse Project
+📊 SQL Data Warehouse Project
 📌 Project Overview
 
-This project demonstrates building a Data Warehouse using MySQL following a 3-layer architecture approach.
+This project demonstrates building a Data Warehouse using SQL following a 3-layer architecture approach.
 
 The goal of this project is to simulate a real-world data engineering workflow including:
 
